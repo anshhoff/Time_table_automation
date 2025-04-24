@@ -1,7 +1,6 @@
 # 🚀 Automated Timetable Scheduler
 
 <div align="center">
-  <img src="resources/timetable-icon.png" alt="Timetable Icon" width="200"/>
   <p><em>Smart Scheduling for Modern Education</em></p>
 </div>
 
@@ -401,24 +400,11 @@ To run the **Automatic Timetable Scheduler** project using IntelliJ IDEA:
 
 Screenshots of the sample executions:
 
-- **Input Data**: 
-
-![Screenshot 2024-11-27 235219.png](resources/Screenshot%202024-11-27%20235219.png)
-![Screenshot 2024-11-27 235233.png](resources/Screenshot%202024-11-27%20235233.png)
-![Screenshot 2024-11-27 235257.png](resources/Screenshot%202024-11-27%20235257.png)
-![Screenshot 2024-11-27 235307.png](resources/Screenshot%202024-11-27%20235307.png)
-![Screenshot 2024-11-27 235317.png](resources/Screenshot%202024-11-27%20235317.png)
-
-- **Console Logs**:
-
-![Screenshot 2024-11-27 223955.png](resources/Screenshot%202024-11-27%20223955.png)
-![Screenshot 2024-11-27 224026.png](resources/Screenshot%202024-11-27%20224026.png)
-
-- **Generated Timetable**: 
-
-![Screenshot 2024-11-27 233238.png](resources/Screenshot%202024-11-27%20233238.png)
-![Screenshot 2024-11-27 233303.png](resources/Screenshot%202024-11-27%20233303.png)
-![img.png](resources/img.png)
+![image](https://github.com/user-attachments/assets/8bf1f152-c444-4551-9915-04733520e7ba)
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/a254a540-555e-4f62-aa1c-db9173a67fb6" />
+<img width="603" alt="image" src="https://github.com/user-attachments/assets/1084803b-e33c-48b2-9729-162582d586a5" />
+<img width="1017" alt="image" src="https://github.com/user-attachments/assets/a90759da-c299-44db-98e2-5a34cda06a30" />
+<img width="1025" alt="image" src="https://github.com/user-attachments/assets/7e2a482d-1552-40a8-9d4f-725ce9b36723" />
 
 
 <img width="1022" alt="Screenshot 2025-04-24 at 2 45 04 PM" src="https://github.com/user-attachments/assets/629f4746-bb06-4c92-8fb5-c339aeb53f9d" />
